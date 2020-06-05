@@ -32,14 +32,14 @@ particularly relevant to those who deal regularly with natural language at scale
 At the end of this course participants will be able to:
 
 
-•	Describe the main components of language structure
-•	Perform pre-processing (cleaning) operations on text.
-•	Apply methods from Corpus Linguistics to garner greater insights on a corpus.
-•	Produce word-clouds, bar charts and other basic visualisations on variables of interest.
-•	Produce clusters using the k-means algorithm to uncover patterns in a corpus
-•	Transform text to vectors using approaches delineated.
-•	Produce word embeddings on a corpus 
-•	Calculate the probability of a sentence using a language modelling approach
+*	Describe the main components of language structure
+*	Perform pre-processing (cleaning) operations on text.
+*	Apply methods from Corpus Linguistics to garner greater insights on a corpus.
+*	Produce word-clouds, bar charts and other basic visualisations on variables of interest.
+*	Produce clusters using the k-means algorithm to uncover patterns in a corpus
+*	Transform text to vectors using approaches delineated.
+*	Produce word embeddings on a corpus 
+*	Calculate the probability of a sentence using a language modelling approach
 
 
 **Course Type** (Fixed length list.)
