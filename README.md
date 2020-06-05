@@ -14,11 +14,9 @@ as to how they can be performed over a dataset.
 
 **Learning Outcome**
 
-Participants should gain Competancy in using core techniques to handle natural language content to undertake analysis to detect patterns and derive insights
+Participants should gain competancy in using core techniques to handle natural language content to undertake analysis to detect patterns and derive insights
 for development of applications like mentioned in course summary
 
-
-One paragraph / sentence: main learning outcome. What is the overall goal of the course? 
 
 **Lead Developer**
 Saliha Minhas
