@@ -1,5 +1,5 @@
 # DSCA_introNLPpython
-### version 1.0
+### Version 1.0
 
 Introduction to Natural Language Processing in Python
 
