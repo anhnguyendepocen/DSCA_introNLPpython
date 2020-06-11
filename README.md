@@ -15,7 +15,7 @@ and application of feature engineering techniques to transform textual data into
 Key techniques such as word embeddings and language modelling are also introduced as well as illustrations
 as to how they can be performed over a dataset.
 
-**Learning Outcome**
+**Learning Objective**
 
 Participants should gain competancy in using core techniques to handle natural language content to undertake analysis to detect patterns and derive insights for development of applications like mentioned in course summary
 
@@ -33,7 +33,7 @@ Kaveh Jahanshahi
 Open to all (who fulfil) basic pre-requisites and who have in interest in this field. It would be
 particularly relevant to those who deal regularly with natural language at scale.
 
-**Learning Objective**
+**Learning Objective Detail**
 
 At the end of this course participants will be able to:
 
