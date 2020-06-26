@@ -1,6 +1,10 @@
 # Introduction to Natural Language Programming with Python
 ### Version 1.0
 
+**Course Duration**
+
+6 Hours
+
 Introduction to Natural Language Processing in Python
 
 **Course Summary**
