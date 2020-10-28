@@ -1,5 +1,5 @@
 # Introduction to Natural Language Programming with Python
-### Version 1.0
+### Version 1.2
 
 **Course Duration**
 
