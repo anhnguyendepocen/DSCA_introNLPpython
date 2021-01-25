@@ -10,18 +10,19 @@ Introduction to Natural Language Processing in Python
 **Course Summary**
 
 Natural Language Processing is a sub-field of Artificial Intelligence. 
-It is used for processing and analysing large amounts of natural language. 
+It is used for processing and analysing large amounts of unstructured text data. 
 Some applications include search engines (Google), text classification (spam filters),
-identifying sentiments for a product (sentiment analysis), methods for discovering 
+quantifying opinion from bodies of text (sentiment analysis), methods for discovering 
 abstract topics in a collection of documents (topic modelling) and machine translation technologies.
-Concepts covered include cleaning, exploring datasets through methods rooted in Corpus Linguistics,
+Concepts covered include cleaning, exploring datasets through methods rooted in analysis of real language
 and application of feature engineering techniques to transform textual data into a numerical representation.
 Key techniques such as word embeddings and language modelling are also introduced as well as illustrations
 as to how they can be performed over a dataset.
 
 **Course Objective**
 
-Participants should gain competency in using core techniques to handle natural language content to undertake analysis to detect patterns and derive insights for development of applications like mentioned in course summary
+Participants should gain competency in using core natural language techniques in detecting patterns and deriving insights for
+development of applications.
 
 
 **Lead Developer**
@@ -32,10 +33,11 @@ Saliha Minhas
 
 Kaveh Jahanshahi
 Jonathon Mellor
+Richard Leyshon
 
 **Intended Audience**
 
-Open to all (who fulfil) basic pre-requisites and who have in interest in this field. It would be
+Open to all who fulfil basic pre-requisites. It would be
 particularly relevant to those who deal regularly with natural language at scale.
 
 **Learning Objective Detail**
@@ -52,7 +54,7 @@ At the end of this course participants will be able to:
 *	Calculate the probability of a sentence using a language modelling approach
 
 
-**Course Type** (Fixed length list.)
+**Course Type**
 
 * E learning - Available 
 * Self learning -  Not Available
@@ -60,11 +62,12 @@ At the end of this course participants will be able to:
 
 **Skill Level**
 
-Competency in using the Python Programming language to perform basic data manipulation is required.
+Intermediate Python programming skills.
 
 **Prerequisite summary** 
 
 Participants should download the Anaconda distribution to their device and should also download all course content from the 
-given GitHub repository
+given GitHub repository.
+Competency in using the Python Programming language to perform basic data manipulation is required.
 
 
