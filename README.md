@@ -21,7 +21,7 @@ as to how they can be performed over a dataset.
 
 **Course Objective**
 
-Participants should gain competancy in using core techniques to handle natural language content to undertake analysis to detect patterns and derive insights for development of applications like mentioned in course summary
+Participants should gain competency in using core techniques to handle natural language content to undertake analysis to detect patterns and derive insights for development of applications like mentioned in course summary
 
 
 **Lead Developer**
@@ -60,11 +60,11 @@ At the end of this course participants will be able to:
 
 **Skill Level**
 
-Competency in using the Python Programming language to perform basic data manipulation is reqiured.
+Competency in using the Python Programming language to perform basic data manipulation is required.
 
-**Pre requisite summary** 
+**Prerequisite summary** 
 
 Participants should download the Anaconda distribution to their device and should also download all course content from the 
-given Github repository
+given GitHub repository
 
 
