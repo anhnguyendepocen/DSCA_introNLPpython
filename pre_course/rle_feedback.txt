@@ -1,0 +1,49 @@
+Notes - attempting on an ONS machine
+
+After reading through the readme I came here.
+
+I opened the .ipynb though newcomers to python programming may be wondering what to do first.
+
+Package_and_data_installer.ipynb - is it necessary for me to use a virtual environment in order
+to get up and running in the course? Reading through the articles is fairly involved and represents
+a sizeable hurdle to getting up and running. Do the problematic packages affect certain sections
+more than others? If so, would it be better to move those sections to supplementary material?
+
+pip install -r requirements.txt asked for the artifactory dance then failed with
+```
+  Could not find a version that satisfies the requirement appnope==0.1.0 (from -r requirements.txt (line 1)) (from versions: )
+No matching distribution found for appnope==0.1.0 (from -r requirements.txt (line 1))
+```
+
+Had JM show me how to set up venv and then run into artifactory issues. Generated new art key.
+
+JM produced venv guidance which helped me progress further. Committed to this directory under venv_guidance.html.
+
+Some venv-jupyter errors encountered preventing installation of all required packages.
+
+Recorded state of successfully installed packages under success_installs.txt
+
+Package_and_data_installer.ipynb
+pip instal cells: 
+```
+# The below code will install all the required versions of packages to your **current** kernel
+# only try if the above does not work
+import sys
+!{sys.executable} -m pip install -r requirements.txt
+```
+
+result in error:
+```
+'c:\users\leyshr\onedrive' is not recognized as an internal or external command,
+operable program or batch file.
+```
+
+This may be due to spaces in the pathname for onedrive locations.
+
+
+Now arriving at section ## NLP data from packages, I see that I need to use binder. Suggest putting a link to the required
+solution and shifting this guidance upstream.
+
+Also, considering the advice to create the venv within the pre_course folder, will I then be able to use jupyter notebooks
+to interact in scripts above this level, ie `../notebooks/M1 - Intro to NLP.ipynb`. I suspect learners will then need to
+delete the implemented steps and repeat at a higher level in the directory tree.
